@@ -42,23 +42,19 @@
 
 ## 📂 Структура проекта
 
+## 📂 Структура проекта
+
+```
 ab-test-dating-app/
-
-├── ab_test_dating_app.ipynb # основной ноутбук с анализом
-
-├── data/
-
-│ ├── users_test.csv
-
-│ ├── users_control_1.csv
-
-│ ├── users_control_2.csv
-
-│ ├── transactions_test.csv
-
-│ ├── transactions_control_1.csv
-
-│ └── transactions_control_2.csv
+├── ab_test_dating_app.ipynb       # Jupyter-ноутбук с анализом
+└── data/
+    ├── users_test.csv
+    ├── users_control_1.csv
+    ├── users_control_2.csv
+    ├── transactions_test.csv
+    ├── transactions_control_1.csv
+    └── transactions_control_2.csv
+```
 
 ## 📫 Контакты
 
